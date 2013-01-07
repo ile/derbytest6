@@ -18,7 +18,7 @@ If I run the same function through an Express route and use a browser to run it,
 - Browse to http://localhost:3000
 - Reload a couple of times
 - Start the daemon: `node daemon.js -d`
-- The output should print 
+- The output should be something like 
 	```
 	********* incrementing *********
 	{ visits: 5 }
