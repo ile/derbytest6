@@ -26,3 +26,7 @@ If I run the same function through an Express route and use a browser to run it,
 - Press Ctrl-C and maybe run the daemon again to increment again. See that "visits" really increments.
 - See that the browser page *has not updated*. That is, visits has not incremented on the browser.
 - Do a hard refresh in the browser, visits should update to the correct number.
+
+## Derby version used
+
+As seen in package.json, I am actually using git://github.com/reneclaus/derby#master and other Derby modules from there.
