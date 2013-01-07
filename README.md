@@ -14,8 +14,7 @@ If I run the same function through an Express route and use a browser to run it,
 
 ## How to reproduce
 
-Start the app:
-- node server.js and wait for a while.
+- Start the app: run `node server.js` and wait for a while.
 - Browse to http://localhost:3000
 - Reload a couple of times
 - Start the daemon: `node daemon.js -d`
