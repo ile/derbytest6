@@ -29,4 +29,4 @@ If I run the same function through an Express route and use a browser to run it,
 
 ## Derby version used
 
-As seen in package.json, I am actually using ![](git://github.com/reneclaus/derby#master) and other Derby modules from there.
+As seen in package.json, I am actually using git://github.com/reneclaus/derby#master and other Derby modules from there.
