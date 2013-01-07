@@ -16,7 +16,7 @@ If I run the same function through an Express route and use a browser to run it,
 
 - Start the app: run `node server.js` and wait for a while.
 - Browse to http://localhost:3000
-- Reload a couple of times
+- Reload the browser page couple of times, to make the visits count increment.
 - Start the daemon: `node daemon.js -d`
 - The output should be something like 
 	```
