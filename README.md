@@ -1,6 +1,4 @@
-# derbytest6
-
-The sample code to reproduce a but (?) in Derby. 
+The sample code to reproduce a bug (?) in Derby. 
 
 This creates a database called derbytest6.
 
